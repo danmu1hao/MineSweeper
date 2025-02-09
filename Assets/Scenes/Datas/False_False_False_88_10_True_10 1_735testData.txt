@@ -1,0 +1,2 @@
+you win 9 you lose 1
+実行時間: 223 秒

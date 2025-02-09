@@ -1,0 +1,2 @@
+you win 75 you lose 25
+実行時間: 7488 秒

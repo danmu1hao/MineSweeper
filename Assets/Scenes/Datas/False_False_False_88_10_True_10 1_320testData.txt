@@ -1,0 +1,2 @@
+you win 8 you lose 2
+実行時間: 157 秒

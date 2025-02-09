@@ -1,0 +1,2 @@
+you win 5 you lose 5
+実行時間: 186 秒

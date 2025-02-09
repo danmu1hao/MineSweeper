@@ -1,0 +1,4 @@
+repository "扫雷@lsq99199@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
